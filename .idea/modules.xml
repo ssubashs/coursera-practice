@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/example/.idea/modules/bigdata-example.iml" filepath="$PROJECT_DIR$/scala-fp-principles/example/.idea/modules/bigdata-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/example/.idea/modules/bigdata-example-build.iml" filepath="$PROJECT_DIR$/scala-fp-principles/example/.idea/modules/bigdata-example-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/forcomp/.idea/modules/progfun1-forcomp.iml" filepath="$PROJECT_DIR$/scala-fp-principles/forcomp/.idea/modules/progfun1-forcomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/forcomp/.idea/modules/progfun1-forcomp-build.iml" filepath="$PROJECT_DIR$/scala-fp-principles/forcomp/.idea/modules/progfun1-forcomp-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/funsets/.idea/modules/progfun1-funsets.iml" filepath="$PROJECT_DIR$/scala-fp-principles/funsets/.idea/modules/progfun1-funsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/funsets/.idea/modules/progfun1-funsets-build.iml" filepath="$PROJECT_DIR$/scala-fp-principles/funsets/.idea/modules/progfun1-funsets-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/objsets/.idea/modules/progfun1-objsets.iml" filepath="$PROJECT_DIR$/scala-fp-principles/objsets/.idea/modules/progfun1-objsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/objsets/.idea/modules/progfun1-objsets-build.iml" filepath="$PROJECT_DIR$/scala-fp-principles/objsets/.idea/modules/progfun1-objsets-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/patmat/.idea/modules/progfun1-patmat-old.iml" filepath="$PROJECT_DIR$/scala-fp-principles/patmat/.idea/modules/progfun1-patmat-old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/patmat/.idea/modules/progfun1-patmat-old-build.iml" filepath="$PROJECT_DIR$/scala-fp-principles/patmat/.idea/modules/progfun1-patmat-old-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/recfun/.idea/modules/progfun1-recfun.iml" filepath="$PROJECT_DIR$/scala-fp-principles/recfun/.idea/modules/progfun1-recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-fp-principles/recfun/.idea/modules/progfun1-recfun-build.iml" filepath="$PROJECT_DIR$/scala-fp-principles/recfun/.idea/modules/progfun1-recfun-build.iml" />
+    </modules>
+  </component>
+</project>
