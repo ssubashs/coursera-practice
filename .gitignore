@@ -2,6 +2,7 @@
 *.class
 *.log
 *.iml
+.idea/*
 */*/.idea/*
 */*/*/target/*
 
